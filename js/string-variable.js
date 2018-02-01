@@ -7,7 +7,7 @@ username = 'Molly';
 message = ' See our upcoming range';
 
 // Get the element with an id of name.;
-var elName = document.getElementById('name');
+var elName = document.getElementById('name'); apostrophy in wrong place after name
 
 //Replace the content of this element
 elName.textContent = username;
